@@ -9,6 +9,10 @@ A machine learning system that predicts heart disease risk from clinical data. T
 - **Gender bias detected**: Male patients: 79.0% accuracy & Female patients: 90.3% accuracy
 - **303-1025 patients** analyzed with 14 clinical features each
 
+## ⚠️ Important Note for Reviewers
+**For optimal experience:** Ensure the `heart.csv` file is in the `data/` folder when running the notebook. The analysis uses fallback sample data if the file is missing, but the complete medical insights and 82% accuracy are demonstrated with the full dataset
+
+
 ## 🚀 Quick Start
 ```bash
 git clone https://github.com/Mehak-NazDev/health-risk-screener
